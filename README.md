@@ -1,5 +1,5 @@
 Olaa!! Eu sou a Mayara.
-Estudante de análise e desenvolvimento de sistems.
+Estudante de análise e desenvolvimento de sistemas.
 
 <a href="https://github.com/mayaradevpro">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayaradevpro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -1,4 +1,4 @@
-Olaa!! Eu sou a Mayara.
+Oláa!! Eu sou a Mayara.
 Estudante de análise e desenvolvimento de sistemas.
 
 <a href="https://github.com/mayaradevpro">
